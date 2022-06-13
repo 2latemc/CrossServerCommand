@@ -1,0 +1,8 @@
+name: Crossservercommand
+version: '${project.version}'
+main: at.late.crossservercommand.Main
+commands:
+  synccmd:
+    permission: op
+  synccmdreload:
+    permission: op
